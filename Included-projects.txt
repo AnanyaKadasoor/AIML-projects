@@ -1,0 +1,9 @@
+This REpository has
+a. Supervised learning project
+b. Unsupervised learning project
+c. Recommendation system project
+d. Featurization and modelling techniques
+e. Neural Network
+f. Computer vision
+g. NLP(both statistical and sequencial)
+h. capstone project
